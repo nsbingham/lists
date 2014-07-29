@@ -11,7 +11,7 @@ These are web-based tools that make web development easier. Generally single-pur
 * [test pixel density of device](http://bjango.com/articles/min-device-pixel-ratio/)
 * [generate c# classes from json](http://json2csharp.com/)
 * [generate XSD/XML schema from XML](http://www.freeformatter.com/xsd-generator.html#ad-output)
-* [index of public firefox release](ftp://ftp.mozilla.org/pub/firefox/releases/)
+* index of public firefox release - ftp://ftp.mozilla.org/pub/firefox/releases/
 * [css gradient generator](http://www.colorzilla.com/gradient-editor/)
 * [explanation of reponsive design types](http://liquidapsive.com/)
 * [list of emojis for github](http://www.emoji-cheat-sheet.com/)
